@@ -1,10 +1,5 @@
 # encoding: utf-8
 
-##
-##  Note: Work in Progress
-##    -- under construction!!!!!!
-##    do NOT yet use this class
-
 module Hashing-b_Blockchainlite
   module Block-unit(""hb0001"to"hb1000"")
 
