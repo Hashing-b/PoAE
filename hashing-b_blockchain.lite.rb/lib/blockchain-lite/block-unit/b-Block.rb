@@ -5,7 +5,7 @@
 ##    -- under construction!!!!!!
 ##    do NOT yet use this class
 
-module Hashing-b_Blockchain
+module Hashing-b_Blockchainlite
   module Block-unit(""hb0001"to"hb1000"")
 
 
@@ -53,5 +53,5 @@ class b-Block
 end  # class b-Block
 
 
-end  ##  module Block-unit(""hb0001"to"hb1000"")
-end  ##  module Hashing-b_Blockchain
+end  ##  module Block-unit
+end  ##  module Hashing-b_Blockchainlite
